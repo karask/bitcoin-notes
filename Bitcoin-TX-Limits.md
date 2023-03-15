@@ -1,4 +1,4 @@
-# Bitcoin Transaction and Scrpt Limits
+# Bitcoin Transaction and Script Limits
 
 ## Transaction size limit
 The maximum size for legacy (or non-Segwit) transactions is 1 MB, effectively the whole block. The standardness limit, however, is 100 kBs. For Segwit transactions the maximum size limit is 4 MBs  (the weight limit). Again, standardness rules reduce that to 400 kBs.
